@@ -1,0 +1,13 @@
+/* STYLES FOR Wiki Nav Menu */
+#wikinav{border:1px solid #aaa;padding:0.5em 1em;background:#F9F9F9;display:table;text-align:center;min-width:200px;}
+#wikinav ul{margin-left:1em;}
+#wikinav li{list-style-type: square;text-align:left;}
+#wikinav a{text-decoration:none;}
+#wikinav li.h1{margin-left:0;}
+#wikinav li.h2{margin-left:1em;}
+#wikinav li.h3{margin-left:2em;}
+#wikinav li.h4{margin-left:3em;}
+#wikinav li.h5{margin-left:4em;}
+#wikiback{margin:50px 0 20px 20px;border:1px dotted #aaa;padding:5px;width:200px;background:#F9F9F9;text-align:center;}
+#wikiback a{color:#37c;font-size:12px;text-decoration:none;}
+#wikinav-show{display:none;}
